@@ -20,6 +20,14 @@
 				<key>Path</key>
 				<string>layout11.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>linusyang - Realtek ALC257 for ThinkPad T480s</string>
+				<key>Id</key>
+				<integer>13</integer>
+				<key>Path</key>
+				<string>layout13.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -30,6 +38,14 @@
 				<integer>11</integer>
 				<key>Path</key>
 				<string>Platforms11.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>linusyang - Realtek ALC257 for ThinkPad T480s</string>
+				<key>Id</key>
+				<integer>13</integer>
+				<key>Path</key>
+				<string>Platforms13.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
@@ -127,7 +143,7 @@
 			<key>Count</key>
 			<integer>2</integer>
 			<key>Find</key>
-			<data>ixnUEQ==</data>
+			<data>hBnUEQ==</data>
 			<key>MinKernel</key>
 			<integer>13</integer>
 			<key>Name</key>
